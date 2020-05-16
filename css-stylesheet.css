@@ -1,0 +1,36 @@
+
+body {
+background-color: #faebd7;
+}
+
+a {
+font-family: Courier New;
+color: #587246;
+}
+
+p {
+font-family: Courier New;
+color: #587246;
+}
+
+.grey-element {
+background-color: lightgrey;
+width: 519px;
+}
+
+.headline1 {
+font-family: Courier New;
+font-weight: bold;
+}
+
+.img-small {
+height: 100px;
+width: 100px;
+}
+
+.rechte-kasten {
+border: solid 1px;
+width: 250px;
+border-radius: 5px;
+text-align: center;
+}
