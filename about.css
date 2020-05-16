@@ -7,6 +7,7 @@ h1 {
 font-family: Courier New;
 font-size: 60px;
 font-style: underline;
+font-weight: lighter;
 }
 
 p {
@@ -39,4 +40,14 @@ font-size: 80%;
 border: solid 2px;
 width: 202px;
 padding: 5px;
+}
+
+.about-img-pir {
+position: absolute;
+right: 0;
+margin-right: 20px;
+height: 100px;
+width: 100px;
+align: right;
+margin-top: -71.7px;
 }
